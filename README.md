@@ -1,1 +1,1 @@
-# Problem-Solving-in-C
+# Problem Solving in C
